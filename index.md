@@ -2,7 +2,6 @@
 layout: default
 ---
 # Jatin Babbar
-# greetings_visitor.py
 
 ```python
 from greetings import Hello, Hi
