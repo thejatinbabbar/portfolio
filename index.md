@@ -3,21 +3,11 @@ layout: default
 ---
 # Jatin Babbar
 
-```python
-from greetings import Hello, Hi
-
-hello = Hello("visitor")
-
-hello.greet()
-```
+<img src="assets/images/xTiIzJSKB4l7xTouE8.webp" alt="Hello There!"/>
 
 # About Me
 
-```
-A little about me:
-
-I am an experienced ML Engineer specializing in NLP and Data Science, with a proven track record in developing, deploying, and optimizing diverse language models, statistical models, and generative models. I have been leveraging over 4 years of industry expertise to drive transformative results and deliver tangible impact.
-```
+I am a seasoned Machine Learning Engineer with over five years of experience in designing and deploying comprehensive machine learning solutions that drive business impact. My expertise encompasses natural language processing (NLP), computer vision, and the development of robust data pipelines. I excel at transforming raw data into actionable insights and integrating advanced models into production environments.
 
 # Work Experience
 
@@ -26,13 +16,16 @@ I am an experienced ML Engineer specializing in NLP and Data Science, with a pro
 <img src="assets/images/jumio.png" alt="Jumio" width="200"/>
 
 Vienna, Austria
+Paris, France
 
-_September 2021 - Present_
+_September 2021 - October 2024_
 
-- Working in close collaboration with the R&D team to spearhead the development of cutting-edge distributed cloud-based SaaS solutions, geared towards Identity Document Classification and Data Extraction
-- Planning and implementing scalable ML models, crafting latest algorithms, and conducting advanced analytics on financial datasets
-- Creating, evaluating and integrating new data pipelines to support complex data sets
-- Technical stack: PyTorch, Apache Airflow, Spark, AWS SageMaker, Docker, Jenkins
+- At Jumio, based in Vienna, Austria, and Paris, France, I served as a Machine Learning Engineer, where I was instrumental in designing and implementing end-to-end machine learning and data pipelines. My responsibilities included:
+  - Document Classification: I fine-tuned foundational pre-trained language models from Hugging Face, using hundreds of thousands of images from our in-house dataset to enhance classification accuracy.
+  - Information Extraction: I developed a robust pipeline that employed GCP OCR for text extraction, followed by Named Entity Recognition (NER) tagging to extract structured data such as names and addresses in multiple languages.
+  - Data and ML Pipelines: I automated data pipelines using Apache Airflow and PySpark, continuously updating our offline feature store, training, and validation datasets.
+  - MLOps Implementation: I built automated ML pipelines for model retraining and deployment, ensuring that our production systems were always up to date with the latest model improvements.
+  - Tech Stack: My work involved technologies like PyTorch Lightning, AWS SageMaker, Apache Airflow, PySpark, MLflow, Docker, Jenkins, AWS ECR/ECS, and Datadog.
 
 ## **AI Researcher** _at_ Orange
 
@@ -42,9 +35,9 @@ Lannion, France
 
 _February 2021 - August 2021_
 
-- Member of the Optical Networks team in Orange Labs.
-- Conducted research on the state-of-the-art technology for fault alarm systems and fault localization technologies for optical transport networks.
-- Published a paper in the August 2021 issue at JOCN #TODO
+- During my tenure at Orange in Lannion, France, I worked as an AI Researcher, focusing on leveraging machine learning to enhance failure management systems in optical networks. My key contributions included:
+  - Research and Development: I developed machine learning models aimed at improving alarm classification and failure localization in optical transport networks.
+  - Publication: In August 2021, I published a journal article in JOCN titled "Machine Learning Models for Alarm Classification and Failure Localization in Optical Transport Networks," showcasing the impact of my work on enhancing network reliability.
 
 ## **Machine Learning Researcher** _at_ MyScript
 
@@ -54,8 +47,9 @@ Nantes, France
 
 _April 2020 - August 2020_
 
-- Conducted research in Sequence-to-Sequence Learning using the Transformer architecture to advance the field of Online Handwritten Text Recognition.
-- Technical Stack: Python, Pytorch, AWS Sagemaker, Git, Docker
+- At MyScript, I conducted groundbreaking research on on-line handwritten text recognition. My work involved:
+  - Innovative Model Adaptation: I adapted transformer-based models to outperform traditional recurrent network approaches.
+  - Performance Achievement: I achieved a state-of-the-art 5.6% character error rate, significantly enhancing the accuracy of handwritten text recognition systems.
 
 ## **Senior Software Developer** _at_ UST Global
 
@@ -65,32 +59,34 @@ Trivandrum, Kerala, India
 
 _July 2018 - July 2019_
 
-- Worked on end-to-end development of numerous web applications seamlessly integrated with sophisticated machine learning pipelines.
-- Contributed to multiple disciplines of Machine Learning projects including Natural Language Processing, Entity extraction from structured and unstructured documents, Object Detection, and Image Segmentation.
-- Drafted POCs for multiple AI projects in association with the AI R&D team.
-- Technical Stack: Python, Tensorflow, Keras, Scikit-learn, NLTK, SpaCy, Stanford CoreNLP, Django, Flask, JavaScript, Angular 6, PostgreSQL
+- At UST Global, I was responsible for:
+  - Design and Development: I architected and developed AI-driven web applications focused on Natural Language Processing (NLP) tasks.
+  - Technological Implementation: I utilized Angular, Flask, PostgreSQL, and TensorFlow to build scalable solutions for Named Entity Recognition (NER) tagging, employing libraries such as SpaCy, NLTK, and Stanford CoreNLP.
+  - Team Leadership: I led project teams, collaborated with cross-functional colleagues, and ensured that project milestones were met on schedule, thereby driving significant improvements in data processing efficiency.
 
 ## **Data Scientist** _at_ LetsMD
 
 <img src="assets/images/letsmd_logo.png" alt="LetsMD" width="200"/>
 
-Gurugram, India
+New Delhi, India
 
 _September 2017 - November 2017_
 
-- Built data pipelines for rigorous Exploratory Data Analysis and robust Data Cleaning techniques, elevating database quality and integrity
-- Technical Stack: Python, MySQL, Bash, Git
+- During my internship at LetsMD, I:
+  - Tasked with Automation: Developed automation scripts and performed exploratory data analysis (EDA) using Python, SQL, and Bash.
+  - Efficiency Improvements: Enhanced data processing workflows, which improved overall operational efficiency.
 
 ## **Data Analyst** _at_ SparroSense
 
 <img src="assets/images/sparrosense.jpg" alt="SparroSense" width="200"/>
 
-New Delhi, India
+Gurugram, India
 
 _July 2017 - August 2017_
 
-- Developed custom scripts to conduct in-depth Exploratory Data Analysis and create dynamic Data Visualization, delivering critical ongoing reports
-- Technical Stack: Python, PostgreSQL
+- At Silversparro Technologies, I:
+  - Data Reporting: Worked extensively with Python and SQL to build comprehensive data reports.
+  - Insights Generation: Provided actionable insights that supported business decision-making.
 
 # Education
 
