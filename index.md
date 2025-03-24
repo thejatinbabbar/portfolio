@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Jatin Babbar
 
 <img src="assets/images/xTiIzJSKB4l7xTouE8.webp" alt="Hello There!"/>
 
